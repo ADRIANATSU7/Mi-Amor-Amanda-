@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Feliz San Valentín ❤️</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      color: #fff;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: auto;
+    }
+    .card {
+      background: rgba(0,0,0,0.2);
+      padding: 25px;
+      border-radius: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Feliz Día de San Valentín 💕</h1>
+
+  <div class="card">
+    <p>
+      Hoy no quería regalarte algo que se marchite o se guarde en un cajón,
+      quería darte algo que se quede aquí, como lo que siento por ti.
+      <br><br>
+      Gracias por existir, por sonreír, por hacer especiales incluso
+      los días más simples.  
+      <br><br>
+      Con cariño ❤️
+    </p>
+  </div>
